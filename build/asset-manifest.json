@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ankit-11525/ToDos_List_Using_React/static/css/main.073c9b0a.css",
+    "main.js": "/Ankit-11525/ToDos_List_Using_React/static/js/main.d23c1aab.js",
+    "static/js/787.4cef76b9.chunk.js": "/Ankit-11525/ToDos_List_Using_React/static/js/787.4cef76b9.chunk.js",
+    "index.html": "/Ankit-11525/ToDos_List_Using_React/index.html",
+    "main.073c9b0a.css.map": "/Ankit-11525/ToDos_List_Using_React/static/css/main.073c9b0a.css.map",
+    "main.d23c1aab.js.map": "/Ankit-11525/ToDos_List_Using_React/static/js/main.d23c1aab.js.map",
+    "787.4cef76b9.chunk.js.map": "/Ankit-11525/ToDos_List_Using_React/static/js/787.4cef76b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d23c1aab.js"
+  ]
+}
